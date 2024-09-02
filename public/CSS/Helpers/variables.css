@@ -20,7 +20,7 @@
   line-height: 2.3rem;
 }
 .bg-green {
-  background-color: var(--dark-slate-gray);
+  background-color: var(--dark-slate-gray) !important;
 }
 .txt-light {
   color: white;
